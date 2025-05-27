@@ -184,12 +184,3 @@ Explora los datos con estas consultas de ejemplo:
 Esperamos que este proyecto te sea útil. Si te gusta, ¡dale una ⭐ en GitHub y compártelo con otros!  
 ```
 
----
-
-### Extras
-1. **Imágenes**: Los enlaces a imágenes (`via.placeholder.com`) son placeholders. Puedes reemplazarlos con banners reales subidos al repositorio (ej. `![Banner](images/banner.png)`).
-2. **Personalización**: Cambia `<tu_usuario>`, `<tu_nombre>`, y `<tu_email>` por tus datos. Si tienes un logo o diseño específico, agrégalo.
-3. **Archivo SQL**: Si quieres, puedo combinar todo el SQL en un solo archivo `insert_data.sql` y dártelo para que lo subas directamente.
-
-¿ Qué te parece este README? ¿Más emojis? ¿Más secciones? ¿Algo más específico? ¡Estoy listo para ajustarlo!
-
