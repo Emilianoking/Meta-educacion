@@ -1,7 +1,6 @@
 
 # 📚 Gestión Educativa Meta
 
-![Banner](https://via.placeholder.com/800x200.png?text=Gestión+Educativa+Meta)  
 *Un proyecto para organizar y gestionar la información educativa del departamento de Meta, Colombia.*
 
 ---
